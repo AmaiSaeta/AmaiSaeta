@@ -2,7 +2,7 @@
 
 I'm a Japanese programmer and Vimmer.
 
-*PROGRAMMING is the contemporary MAGIC!*
+*PROGRAMMING is the MAGIC of the modern era.*
 
 <!--
 **AmaiSaeta/AmaiSaeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
