@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 # My GitHub Stats
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaiSaeta&count_private=true&show_icons=true" style="float: left" />
+  <img src="./profile/stats.svg" style="float: left" />
 </span>
 <span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaiSaeta&layout=compact&count_private=true&show_icons=true" style="float: left" />
+  <img src="./profile/top-langs.svg" style="float: left" />
 </span>
 
 <div style="clear: left; font-size: smaller; text-align: right">Powerd by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>. Thank you <a href="https://github.com/anuraghazra">anuraghazra</a>!</div>
